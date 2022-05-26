@@ -10,10 +10,6 @@ I'm currently working on the [tjan.tv Website](https://github.com/tjantv)
 
 You can easily DM me on [Discord](https://discord.com/channels/@me/526847677623959563) (Jilence#0001)
 
-## 📢 Stats
-[![Jilence's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jilence&langs_count=10&layout=compact)](https://github.com/Jilence)<br>
-[![Jilence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jilence&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Jilence)
-
 <!--
 **Jilence/Jilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
