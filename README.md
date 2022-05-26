@@ -6,7 +6,7 @@ I'm a teenage developer from germany. I coding Minecraft plugins, Discord bots, 
 
 I'm currently working on the [tjan.tv Website](https://github.com/tjantv) 
 
-📫 Reach me
+## 📫 Reach me
 
 You can easily DM me on [Discord](https://discord.com/channels/@me/526847677623959563) (Jilence#0001)
 
