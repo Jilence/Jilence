@@ -2,13 +2,7 @@
 
 I'm a teenage developer from germany. I coding Minecraft plugins, Discord bots, Twitch bots or many other things for various YouTubers from the German series.
 
-## 🔭 Current
 
-I'm currently working on the [tjan.tv Website](https://github.com/tjantv) 
-
-## 📫 Reach me
-
-You can easily DM me on [Discord](https://discord.com/channels/@me/526847677623959563) (Jilence#0001)
 
 <!--
 **Jilence/Jilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
