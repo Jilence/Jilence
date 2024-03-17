@@ -1,8 +1,5 @@
 ### Hey, I'm Jilence! 👋
 
-I'm a teenage developer from germany. I coding Minecraft plugins, Discord bots, Twitch bots or many other things for various YouTubers from the German series.
-
-
 
 <!--
 **Jilence/Jilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
